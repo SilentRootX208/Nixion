@@ -1,4 +1,4 @@
-# 🛡️ Nixion - All-in-One Security Toolkit # Tool 
+# 🛡️ Nixion - All-in-One Security Toolkit 
 
 A comprehensive cybersecurity toolkit for reconnaissance, vulnerability assessment, exploitation testing, stress testing, and phishing simulation, inspired by the all-seeing giant Argus.
 
